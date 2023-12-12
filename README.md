@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Garved
 - 👀 I’m interested in system technology, MS Windows, Linux and other.
-- 🌱 I’m currently learning container and virtualization technologes, automation. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Docker, Kubernetes and other automation IaaC. 
+- 📫 How to reach me alexandr.vng@gmail.com
 
 <!---
 Garved/Garved is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
